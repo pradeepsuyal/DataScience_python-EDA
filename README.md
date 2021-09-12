@@ -1,5 +1,5 @@
 # Exploratory data analysis libraries for Data Science(python)
-* [Intruduction](#introduction)
+* [Introduction](#introduction)
 * [matplotlib](#matplotlib)
 * [seaborn](#seaborn)
 * pandas built in function
