@@ -73,11 +73,18 @@ The general syntax to draw a *type of plot* out of a DataFrame df is as follows.
 
 df.plot.*type of plot*(*relevant-necessary parameters*)
 
-## projects that I have done in this repo
+## projects that I have used in this repo
 ---------------------------------------------
 
 I have  use some of the famous dataset such as *2014 world GDP, 911, honey production, world happiness report and many more.* for performing Exploratory analysis from above library. so you can check out .ipynb file for various plots.
 
+***language used***
+--------------------------
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+**Tools**
+-----------------------
+[![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)    ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)   ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)   ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)  ![Made with matplotlib](https://user-images.githubusercontent.com/86251750/132984208-76ce70c7-816d-4f72-9c9f-90073a70310f.png)  ![seaborn](https://user-images.githubusercontent.com/86251750/132984253-32c04192-989f-4ebd-8c46-8ad1a194a492.png)
 
 
 ![Thanks](https://media.giphy.com/media/6tHy8UAbv3zgs/giphy.gif)
